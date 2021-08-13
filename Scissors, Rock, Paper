@@ -1,0 +1,13 @@
+# My Project Name
+scissors, rock, paper
+## Overview
+in this game you will be able to play a spinoff of rock, paper, scissors with a twist. 
+## Inspiration
+I chose to do this project because I would like to start coding games. So I figured this would be a good place to start. 
+
+## Skills Used
+In order to accomplish this project, I had to use the following pythonic skills:
+- for loops
+- functions
+- if/elif/else logic
+- etc...
